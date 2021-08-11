@@ -30,3 +30,10 @@ print(ten_a)
 print(type(ten_a))
 print(num_a.shape)
 print(ten_a.size())
+
+list_b = [[2, 3, 4], [7, 8, 9]]
+print(list_b)
+num_b = np.array(list_b, dtype=np.float64)
+print(num_b)
+ten_b = torch.tensor(list_b, dtype=torch.float64)
+print(ten_b)
