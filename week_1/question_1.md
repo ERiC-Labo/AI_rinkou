@@ -99,3 +99,11 @@ tensor([[2., 7.],
         [4., 9.]], dtype=torch.float64)
 ###
 ```
+### Q7
+以下の式を満たすnum_b_mul, ten_b_mulを求めよ。
+num_b_mul = num_b・num_b_t
+ten_b_mul = ten_b_t・ten_b
+出力は以下のようになる。
+```
+print(num_b_mul)
+```
