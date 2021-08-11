@@ -81,3 +81,21 @@ print(ten_b_1)
 tensor([2., 3., 4., 7., 8., 9.], dtype=torch.float64)
 ###
 ```
+
+### Q6
+Q4のnum_b,ten_bについて、転置行列num_b_t, ten_b_tを作成せよ。
+```
+print(num_b_t)
+###
+[[2. 7.]
+ [3. 8.]
+ [4. 9.]]
+###
+
+print(ten_b_t)
+###
+tensor([[2., 7.],
+        [3., 8.],
+        [4., 9.]], dtype=torch.float64)
+###
+```
