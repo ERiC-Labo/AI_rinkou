@@ -11,8 +11,8 @@ git clone https://github.com/ERiC-Labo/AI_rinkou
 
 ##### 色がついている部分に数値を当てはめる(テキストを見て、考えてみてください)
 
-##### プログラムの実行
-pytorchがある環境に移動して次を実行する
+### プログラムの実行
+pytorchがある環境に移動して次を実行する(答えがわかると思います)
 ```
 python week_2/convolution.py
 ```
