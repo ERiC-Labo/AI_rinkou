@@ -1,5 +1,17 @@
 # AI輪講へようこそ
-### 1週目
+### 2週目
 
-<p align="center"><a href="https://github.com/ERiC-Labo/AI_rinkou/blob/main/week_1/question_1.md">問題文</a></p>
-<p align="center"><a href="https://github.com/ERiC-Labo/AI_rinkou/blob/main/week_1/answer_1.py">答え</a></p>
+```
+git clone https://github.com/ERiC-Labo/AI_rinkou
+```
+
+week_2/畳み込み.odsを開く
+
+
+色がついている部分に数値を当てはめる
+
+##### プログラムの実行
+pytorchがある環境に移動して次を実行する
+```
+python week_2/convolution.py
+```
